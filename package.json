@@ -16,7 +16,7 @@
     "mongoose",
     "notes"
   ],
-  "author": "Pritesh Patel",
+  "author": "Taylor Martin",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
